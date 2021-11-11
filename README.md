@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karan 
-- 👀 I’m interested in artificial intelligence and machine learning 
-- 🌱 I’m currently learning deep learning
+- 👀 I’m interested in Artificial Intelligence and Machine Learning 
+- 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me https://www.linkedin.com/in/karan-manikani/
 
 <!---
