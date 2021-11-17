@@ -6,6 +6,16 @@ Sophomore at NMIMS’ MPSTME, studying Computer Science, with a concentration in
 - 🌱 I’m currently learning TensorFlow and PyTorch
 - 👯 I’m looking to collaborate on research projects in the field of Machine Learning and Deep Learning
 
+## 🛠️ Skills
+> Python <br>
+> Pandas <br>
+> Numpy <br>
+> Matplotlib <br>
+> Seaborn <br>
+> Sklearn <br>
+> Streamlit <br>
+
+<br>
 <!---
 Karan-Manikani/Karan-Manikani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
