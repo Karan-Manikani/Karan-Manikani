@@ -4,7 +4,7 @@ Sophomore at NMIMS’ MPSTME, studying Computer Science, with a concentration in
 
 - 👀 I’m interested in Machine Learning and Deep Learning 
 - 🌱 I’m currently learning TensorFlow and PyTorch
-- 👯 I’m looking to collaborate on research projects in the field of Machine Learning and Deep Learning
+- 👯 I’m looking to collaborate on research projects related to Machine Learning and Deep Learning
 
 ## 🛠️ Skills
 > Python <br>
