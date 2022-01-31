@@ -3,17 +3,19 @@
 Sophomore at NMIMS’ MPSTME, studying Computer Science, with a concentration in Artificial Intelligence.
 
 - 👀 I’m interested in Machine Learning and Deep Learning 
-- 🌱 I’m currently learning TensorFlow and PyTorch
+- 🌱 I’m currently learning TensorFlow
 - 👯 I’m looking to collaborate on research projects related to Machine Learning and Deep Learning
 
 ## 🛠️ Skills
 > Python <br>
+> Tensorflow <br>
+> Sklearn <br>
 > Pandas <br>
 > Numpy <br>
 > Matplotlib <br>
 > Seaborn <br>
-> Sklearn <br>
 > Streamlit <br>
+
 
 <br>
 <!---
